@@ -1,0 +1,6 @@
+C:\Users\Администратор\source\repos\AstonTask_Fatkhutdinov_c_sharp\AstonTask_Fatkhutdinov_c_sharp\bin\Debug\AstonTask_Fatkhutdinov_c_sharp.exe.config
+C:\Users\Администратор\source\repos\AstonTask_Fatkhutdinov_c_sharp\AstonTask_Fatkhutdinov_c_sharp\bin\Debug\AstonTask_Fatkhutdinov_c_sharp.exe
+C:\Users\Администратор\source\repos\AstonTask_Fatkhutdinov_c_sharp\AstonTask_Fatkhutdinov_c_sharp\bin\Debug\AstonTask_Fatkhutdinov_c_sharp.pdb
+C:\Users\Администратор\source\repos\AstonTask_Fatkhutdinov_c_sharp\AstonTask_Fatkhutdinov_c_sharp\obj\Debug\AstonTask_Fatkhutdinov_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\AstonTask_Fatkhutdinov_c_sharp\AstonTask_Fatkhutdinov_c_sharp\obj\Debug\AstonTask_Fatkhutdinov_c_sharp.exe
+C:\Users\Администратор\source\repos\AstonTask_Fatkhutdinov_c_sharp\AstonTask_Fatkhutdinov_c_sharp\obj\Debug\AstonTask_Fatkhutdinov_c_sharp.pdb
